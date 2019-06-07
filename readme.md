@@ -1,5 +1,3 @@
-The title is guessing game
-make file run on:
-Tue Jun  4 00:01:32 IST 2019
+Quessing game Project
 Number of lines:
 36
